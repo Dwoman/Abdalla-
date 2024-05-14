@@ -213,11 +213,8 @@ ul {
 
     @media (max-width:477px) {
       #hero {
-        
-        height: 31vh;
-        width: 100%;
-        
-    }
+        height: 31vh;     
+      }
     
     #school .pro {
        margin-left: -50px;
